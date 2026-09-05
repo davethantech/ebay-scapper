@@ -1,1 +1,0 @@
-The implementation has been hardened for description-first matching, configuration validation, bundle acquisition cost, AU/US market separation, and checkpointed processing.
